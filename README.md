@@ -42,15 +42,57 @@
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/pietrodeluca1997/NOME-DO-PROJETO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pietrodeluca1997&repo=NOME-DO-PROJETO-1&theme=tokyonight" />
+  <a href="https://github.com/pietrodeluca1997/byte-forge-engine">
+    <img 
+      src="https://github.com/pietrodeluca1997/pietrodeluca1997/blob/main/images/projects/byte-forge-engine.png" 
+      width="320"
+      style="border-radius:12px; border:2px solid #30363d; margin:10px;" 
+    />
   </a>
-  <a href="https://github.com/pietrodeluca1997/NOME-DO-PROJETO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pietrodeluca1997&repo=NOME-DO-PROJETO-2&theme=tokyonight" />
+
+  <a href="https://github.com/pietrodeluca1997/project-00-chef">
+    <img 
+      src="https://github.com/pietrodeluca1997/pietrodeluca1997/blob/main/images/projects/project-00-chef.png" 
+      width="320"
+      style="border-radius:12px; border:2px solid #30363d; margin:10px;" 
+    />
+  </a>
+
+   <a href="https://github.com/pietrodeluca1997/puck-smashers">
+    <img 
+      src="https://github.com/pietrodeluca1997/pietrodeluca1997/blob/main/images/projects/puck-smashers.png" 
+      width="320"
+      style="border-radius:12px; border:2px solid #30363d; margin:10px;" 
+    />
+  </a>
+  
+<a href="https://github.com/pietrodeluca1997/top-down-shooter">
+    <img 
+      src="https://github.com/pietrodeluca1997/pietrodeluca1997/blob/main/images/projects/top-down-shooter.png" 
+      width="320"
+      style="border-radius:12px; border:2px solid #30363d; margin:10px;" 
+    />
+  </a>
+  
+  <a href="https://github.com/pietrodeluca1997/procedural-generation">
+    <img 
+      src="https://github.com/pietrodeluca1997/pietrodeluca1997/blob/main/images/projects/procedural-terrain-generation.png" 
+      width="320"
+      style="border-radius:12px; border:2px solid #30363d; margin:10px;" 
+    />
+  </a>
+
+  <a href="https://github.com/pietrodeluca1997/dotnet-pong-ai">
+    <img 
+      src="https://github.com/pietrodeluca1997/pietrodeluca1997/blob/main/images/projects/monogame-pong-ai.png" 
+      width="320"
+      style="border-radius:12px; border:2px solid #30363d; margin:10px;" 
+    />
   </a>
 </p>
 
 ---
+
 
 ## 🎮 Projects
 

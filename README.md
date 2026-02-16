@@ -20,14 +20,14 @@
 
 ## 🚀 About Me
 
-Passionate Game Developer focused on creating meaningful interactive experiences.
-
-Engineer, architect, analyst, and developer, skilled in designing, developing, deploying, and maintaining games, systems, and applications, ranging from embedded systems to enterprise solutions.
-Experience in developing custom game engines and proficiency with industry-standard engines such as Unreal Engine, Unity, and Godot, with a strong focus on software architecture, optimization, and scalability.
-Specialist in C, C++, Lua and C#, with advanced knowledge in rendering, graphics programming, and low-level engineering.
-Solid background in system design, memory management, real-time rendering, and the development of tools and pipelines to support production teams.
-Musician since the age of 3 and music teacher since 12, an experience that has fostered strong interpersonal skills, teamwork, and effective communication.
-Open to national and international opportunities in game development, engine programming, and software engineering.
+- 🎮 Focused on meaningful interactive experiences  
+- 🧠 Strong background in architecture & system design  
+- ⚡ Performance, optimization & scalability driven  
+- 🖥️ Experience with Unreal, Unity & Godot  
+- 💻 Advanced in C, C++, C#, and Lua  
+- 🎨 Rendering & graphics programming knowledge  
+- 🤝 Team-oriented, strong communication skills  
+- 🌍 Open to national & international opportunities  
 
 ---
 
@@ -37,9 +37,21 @@ Open to national and international opportunities in game development, engine pro
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,lua,dotnet,unity,unreal,godot,blender,git,docker"/>
 </p>
 
+---
+
+## 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/pietrodeluca1997/NOME-DO-PROJETO-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pietrodeluca1997&repo=NOME-DO-PROJETO-1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/pietrodeluca1997/NOME-DO-PROJETO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pietrodeluca1997&repo=NOME-DO-PROJETO-2&theme=tokyonight" />
+  </a>
+</p>
+
+---
 
 ## 🎮 Projects
 
-Here you’ll find prototypes, custom game engine, gameplay systems, experiments, and complete playable projects.
-
----
+Prototypes, gameplay systems, experiments, and complete playable experiences focused on mechanics, interaction, and performance.

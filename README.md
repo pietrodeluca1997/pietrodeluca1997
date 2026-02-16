@@ -22,6 +22,13 @@
 
 Passionate Game Developer focused on creating meaningful interactive experiences.
 
+Engineer, architect, analyst, and developer, skilled in designing, developing, deploying, and maintaining games, systems, and applications, ranging from embedded systems to enterprise solutions.
+Experience in developing custom game engines and proficiency with industry-standard engines such as Unreal Engine, Unity, and Godot, with a strong focus on software architecture, optimization, and scalability.
+Specialist in C, C++, Lua and C#, with advanced knowledge in rendering, graphics programming, and low-level engineering.
+Solid background in system design, memory management, real-time rendering, and the development of tools and pipelines to support production teams.
+Musician since the age of 3 and music teacher since 12, an experience that has fostered strong interpersonal skills, teamwork, and effective communication.
+Open to national and international opportunities in game development, engine programming, and software engineering.
+
 ---
 
 ## 🛠️ Technologies & Tools

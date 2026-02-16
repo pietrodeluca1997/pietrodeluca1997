@@ -39,6 +39,25 @@
 
 ---
 
+## 🔥 Currently Working On
+
+  <p align="center">
+     <a href="https://github.com/pietrodeluca1997/survival-action-rpg" align="center">
+    <img 
+    src="https://images.unsplash.com/photo-1593505681742-8cbb6f44de25?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    width="320" 
+    style="border-radius:16px; border:2px solid #30363d;" 
+  />
+</a>
+  </p>
+
+<p align="center">
+  <strong>Survival Action RPG</strong><br/>
+  Third-person action combat, survival systems, exploration and character progression  with rpg elements.<br/>
+</p>
+
+---
+
 ## 🌟 Featured Projects
 
 <p align="center">
@@ -92,8 +111,3 @@
 </p>
 
 ---
-
-
-## 🎮 Projects
-
-Prototypes, gameplay systems, experiments, and complete playable experiences focused on mechanics, interaction, and performance.
